@@ -51,8 +51,8 @@ Koi fish](koi.jpg)
 [![](cloudy-forest-thumbnail.jpg)<br>
 Cloudy forest](cloudy-forest.jpg)
 
-[![](apples-thumbnail.jpg)<br>
-Apples](apples.jpg)
+[![](mt-rainier-thumbnail.jpg)<br>
+Mt. Rainier](mt-rainier.jpg)
 
 [![](desert-plant-thumbnail.jpg)<br>
 Desert plant](desert-plant.jpg)

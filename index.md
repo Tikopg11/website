@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Tiko's work
+title: Welcome to Tiko's page
 ---
-
 [Paintings](pages/paintings/)

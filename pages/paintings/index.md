@@ -42,6 +42,12 @@ a:hover {
 
 <div markdown=1 style="text-align: center;" class="paintings">
 
+[![](mandalorian-thumbnail.jpg)<br>
+Mandalorian](mandalorian.jpg)
+
+[![](koi-thumbnail.jpg)<br>
+Koi fish](koi.jpg)
+
 [![](cloudy-forest-thumbnail.jpg)<br>
 Cloudy forest](cloudy-forest.jpg)
 
@@ -54,22 +60,16 @@ Desert plant](desert-plant.jpg)
 [![](giraffe-thumbnail.jpg)<br>
 Giraffe](giraffe.jpg)
 
-[![](koi-thumbnail.jpg)<br>
-Koi fish](koi.jpg)
+[![](sitting-tiger-thumbnail.jpg)<br>
+Sitting tiger](sitting-tiger.jpg)
 
-[![](mandalorian-thumbnail.jpg)<br>
-Mandalorian](mandalorian.jpg)
+[![](tiger-thumbnail.jpg)<br>
+Tiger](tiger.jpg)
 
 [![](seal-thumbnail.jpg)<br>
 Seal](seal.jpg)
 
-[![](sitting-tiger-thumbnail.jpg)<br>
-Sitting tiger](sitting-tiger.jpg)
-
 [![](surfer-thumbnail.jpg)<br>
 Surfer](surfer.jpg)
-
-[![](tiger-thumbnail.jpg)<br>
-Tiger](tiger.jpg)
 
 </div>
